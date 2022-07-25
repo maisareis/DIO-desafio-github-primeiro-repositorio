@@ -1,0 +1,49 @@
+link para baixar git: https://git-scm.com/
+
+principais comando git:
+
+git-add
+Adiciona o conteúdo dos arquivos ao índice.
+
+Para adicionar um único arquivo:
+
+git add <arquivo>
+Para adicionar tudo ao mesmo tempo:
+
+git add -A
+
+git-clone
+Clona um repositório em um novo diretório.
+
+git-commit
+Grava as alterações para o repositório.
+
+git commit -m "mensagem do commit"
+
+git-init
+Cria um repositório vazio para o Git ou reinicializa um repositório já existente.
+
+git-mv
+Move ou renomeia um arquivo.
+
+git-pull
+Capture de e o integre com um outro repositório ou em um outro ramo local.
+
+git pull <repositório-remoto>
+
+git-push
+Após fazer o commit de suas alterações, a próxima coisa a fazer é enviar suas alterações ao servidor remoto. Git push faz o upload dos seus commits no repositório remoto.
+
+git push <repositório-remoto> <nome-da-branch>
+
+git-config
+Obtém e define os repositórios ou as opções globais.
+
+Git clone
+Git clone é uma comando para baixar o código-fonte existente de um repositório remoto (como, por exemplo, o Github). 
+
+Git status
+O comando git status nos dá todas as informações necessárias sobre a branch atual.
+
+
+
